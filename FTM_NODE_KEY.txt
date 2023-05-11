@@ -1,0 +1,5 @@
+https://divine-damp-butterfly.fantom.quiknode.pro/20dce135271df1cdf3b7dbc4f9556867dbc52787/
+POLYGON
+https://snowy-green-brook.matic.quiknode.pro/c554a1dd040e0e88479c5820fccdb2b70a0e7c9e/
+ALGO
+https://billowing-falling-silence.algorand-mainnet.quiknode.pro/9a02e634d37ce36091137374927b1b7aacdd88df/algod/
